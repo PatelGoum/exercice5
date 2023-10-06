@@ -10,6 +10,8 @@ namespace exercice5
     {
         static void Main(string[] args)
         {
+            int exemple;
+            exemple = 4;
         }
     }
 }
